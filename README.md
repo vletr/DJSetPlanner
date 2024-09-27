@@ -11,13 +11,13 @@ DJ's will be able to save playlists in order to build out their sets. Potenially
 here are possible tech the project might include
 
 ### Frontend UI
-- ReactJS
+- NextJS
 
 ### Server
 - NestJS
 
 ### DB
 - mySQL
-  - Sequelize
+  - Sequelize ORM
 
 
