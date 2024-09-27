@@ -6,7 +6,7 @@ DJ's will be able to save playlists in order to build out their sets. Potenially
 ![spongebobdj](https://github.com/user-attachments/assets/8961554d-f72e-4836-99f4-6f9d242b2949)
 
 # some notes
-DJ Set Planner is built in React using the NextJS framework. This means it'll be React front-end, NextJS on top of Express for the server-side and it will utilize either MongoDB or mySQL (tbd). DJ Set Planner is going to use some common stack tools such as webpack and babel to package and bundle code from the server instead of rendering client side.
+DJ Set Planner is built in React using the NextJS framework. This means it'll be React front-end, NextJS on top of Express for the server-side and it will utilize either MongoDB or mySQL (tbd).
 
 
 here are possible tech the project might include:
